@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Development on M1NDB3ND3R</title><link>/categories/development/</link><description>Recent content in Development on M1NDB3ND3R</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>© 2024 Tharun D V</copyright><lastBuildDate>Tue, 22 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/development/index.xml" rel="self" type="application/rss+xml"/><item><title>How I Created My Homepage (for free)</title><link>/posts/homepage-guide/</link><pubDate>Tue, 22 Oct 2024 00:00:00 +0000</pubDate><guid>/posts/homepage-guide/</guid><description>&lt;h2 class="relative group">TL;DR
+&lt;div id="tldr" class="anchor">&lt;/div>
+&lt;span
+class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100">
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700"
+style="text-decoration-line: none !important;" href="#tldr" aria-label="Anchor">#&lt;/a>
+&lt;/span>
+&lt;/h2>
+&lt;p>Currently, there are several solutions to build and host your personal website. I wanted to challenge myself to see if I could do it with the same set of features as some of the paid solutions out there and for free. Here are the results.&lt;/p></description><media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/homepage-guide/feature.jpg"/></item></channel></rss>
