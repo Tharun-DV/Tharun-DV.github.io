@@ -3,7 +3,7 @@
 # https://nunocoracao.github.io/blowfish/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://your_domain.com/"
+baseURL = "https://blog.tharundv.me"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
@@ -47,4 +47,3 @@ weight = 20
 [[related.indices]]
 name = "date"
 weight = 10
-
