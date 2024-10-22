@@ -1,7 +1,7 @@
 ---
 title: "How I Created My Homepage (for free) "
-description: "Currently, there are several solutions to build and host your personal website. I wanted to challenge myself to see if I could do it with the same set of features as some of the paid solutions out there and for free. Here are the results."
-summary: "Currently, there are several solutions to build and host your personal website. I wanted to challenge myself to see if I could do it with the same set of features as some of the paid solutions out there and for free. Here are the results."
+#description: "Currently, there are several solutions to build and host your personal website. I wanted to challenge myself to see if I could do it with the same set of features as some of the paid solutions out there and for free. Here are the results."
+#summary: "Currently, there are several solutions to build and host your personal website. I wanted to challenge myself to see if I could do it with the same set of features as some of the paid solutions out there and for free. Here are the results."
 categories: ["Development", "Tutorial"]
 tags: ["Hugo", "Congo", "Docker", "VSCode"]
 #externalUrl: ""
