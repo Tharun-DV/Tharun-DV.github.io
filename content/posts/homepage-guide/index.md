@@ -1,5 +1,5 @@
 ---
-title: "How I Created My Homepage (for free) Using Docker, Hugo, and Firebase"
+title: "How I Created My Homepage (for free) "
 description: "Currently, there are several solutions to build and host your personal website. I wanted to challenge myself to see if I could do it with the same set of features as some of the paid solutions out there and for free. Here are the results."
 summary: "Currently, there are several solutions to build and host your personal website. I wanted to challenge myself to see if I could do it with the same set of features as some of the paid solutions out there and for free. Here are the results."
 categories: ["Development", "Tutorial"]
@@ -60,7 +60,6 @@ I'll provide two ways of setting up your development environment feel free to ch
 
 To spin up a Dev Environment just open Docker Dashboard and select the "Dev Environments" tab on the left. If you don't have any dev environments setup select "Create New Environment" otherwise use the button on the upper right side "Create". Proceed to the setup step.
 
-<img src="devenvs/step2.png"/>
 
 
 Here choose the "Existing Git repo" option and use the following GitHub URL:
